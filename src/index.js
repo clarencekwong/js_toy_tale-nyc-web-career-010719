@@ -75,6 +75,7 @@ toyCol.addEventListener('click', (e) => {
     let toyLikes = foundToy.likes
     toyLikes++
     const data = {
+      id: parseInt(toyID),
       name: toyName,
       image: toyURL,
       likes: toyLikes
@@ -96,17 +97,19 @@ toyCol.addEventListener('click', (e) => {
             return toy
           }
         })
-        toyCol.innerHTML = ''
-        for (const toy of allToys) {
-          toyCol.innerHTML += `
-          <div class="card" data-id=${toy.id}>
-            <h2>${toy.name}</h2>
-            <img src=${toy.image} class="toy-avatar" />
-            <p>${toy.likes} Likes </p>
-            <button class="like-btn" data-action="like">Like <3</button>
-          </div>
-          `
-        }
+        // toyCol.innerHTML = ''
+        // console.log(e.target.previousElementSibling.innerHTML)
+        e.target.previousElementSibling.innerHTML = `${toyLikes} Likes`
+        // for (const toy of allToys) {
+        //   toyCol.innerHTML += `
+        //   <div class="card" data-id=${toy.id}>
+        //     <h2>${toy.name}</h2>
+        //     <img src=${toy.image} class="toy-avatar" />
+        //     <p>${toy.likes} Likes </p>
+        //     <button class="like-btn" data-action="like">Like <3</button>
+        //   </div>
+        //   `
+        // }
       })
   }
 

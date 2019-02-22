@@ -4,60 +4,60 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 72
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 3
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 4
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 1
     },
     {
       "name": "BlubberDucky",
       "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F611b2p-6T5L._SX425_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FToyk-Musical-Lights-Action-Adjustable%2Fdp%2FB071P3D44J&docid=UGZ62RrhG3YqKM&tbnid=_awO32xp49d9zM%3A&vet=10ahUKEwio2JWBgNDgAhVMON8KHTY9DJQQMwigASgAMAA..i&w=425&h=425&safe=off&bih=917&biw=1680&q=kids%20toy&ved=0ahUKEwio2JWBgNDgAhVMON8KHTY9DJQQMwigASgAMAA&iact=mrc&uact=8",
-      "likes": 0,
+      "likes": 4,
       "id": 9
     },
     {
       "name": "Toy Chest",
       "image": "https://image.shutterstock.com/image-vector/kids-toys-box-vector-clipart-450w-548840146.jpg",
-      "likes": 0,
+      "likes": 1,
       "id": 10
     }
   ]

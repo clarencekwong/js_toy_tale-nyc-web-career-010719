@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "BlubberDucky",
+      "image": "https://www.google.ca/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F611b2p-6T5L._SX425_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FToyk-Musical-Lights-Action-Adjustable%2Fdp%2FB071P3D44J&docid=UGZ62RrhG3YqKM&tbnid=_awO32xp49d9zM%3A&vet=10ahUKEwio2JWBgNDgAhVMON8KHTY9DJQQMwigASgAMAA..i&w=425&h=425&safe=off&bih=917&biw=1680&q=kids%20toy&ved=0ahUKEwio2JWBgNDgAhVMON8KHTY9DJQQMwigASgAMAA&iact=mrc&uact=8",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Toy Chest",
+      "image": "https://image.shutterstock.com/image-vector/kids-toys-box-vector-clipart-450w-548840146.jpg",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
